@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm [Pooja Panchal]
 
 ## About Me
-I'm a passionate web designer with [2.5] years of experience in crafting beautiful and functional websites. My goal is to create immersive digital experiences that captivate users and leave a lasting impression.
+I'm a passionate web designer with [3] years of experience in crafting beautiful and functional websites. My goal is to create immersive digital experiences that captivate users and leave a lasting impression.
 
 ## Skills
 - **Web Design:** Proficient in creating visually appealing designs with a focus on user experience and accessibility.
@@ -22,7 +22,7 @@ Here are some projects I've worked on:
 5. [Bear Analytics](https://www.bearanalytics.com/) - Description of the project and your role.
 6. [My Briefcase](https://mybriefcase.ai/) - Description of the project and your role.
 
-/*You can view more of my work on my [portfolio website](your-portfolio-website-link).*/
+<!-- You can view more of my work on my [portfolio website](your-portfolio-website-link). --> 
 
 ## Get in Touch
 - **Email:** poojapanchal1911@gmail.com
@@ -31,7 +31,7 @@ Here are some projects I've worked on:
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project!
 
 ## Let's Connect
-Connect with me on LinkedIn or Twitter to stay updated on my latest projects and design insights.
+Connect with me on LinkedIn or Email to stay updated on my latest projects and design insights.
 
 ## Thanks for visiting!
 Thanks for stopping by my GitHub profile. I'm looking forward to connecting with fellow designers and developers!
