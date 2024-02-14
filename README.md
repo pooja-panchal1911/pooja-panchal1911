@@ -32,7 +32,7 @@ I'm a passionate web designer with [3] years of experience in crafting beautiful
 Here are some projects I've worked on:
 
 1. [Robin App](https://robin-app-0c0dc0.webflow.io/) 
-2. [Love Devani](https://lovedevani.com/)
+2. [Love Devani](https://lovedevani.com/relationship/)
 3. [Realestate Sparkle Infotech](https://realestate.sparkleinfotech.com/)
 4. [Zync Ai](https://zyncwebsite.webflow.io/) 
 5. [Bear Analytics](https://www.bearanalytics.com/) 
