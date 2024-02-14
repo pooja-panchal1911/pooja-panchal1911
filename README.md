@@ -24,6 +24,8 @@ I'm a passionate web designer with [3] years of experience in crafting beautiful
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://webflow.com/" target="_blank"><img style="margin: 10px" src="https://assets-global.website-files.com/5d3e265ac89f6a3e64292efc/5d55951e4de4fb4722554d96_default_favicon.png" alt="webflow" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" height="50" /></a>  
+<a href="https://helpx.adobe.com/in/support/xd.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobeXd" height="50" /></a>  
 </div>
 
 ## Portfolio
