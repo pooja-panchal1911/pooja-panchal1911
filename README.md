@@ -36,7 +36,8 @@ Here are some projects I've worked on:
 3. [Realestate Sparkle Infotech](https://realestate.sparkleinfotech.com/)
 4. [Zync Ai](https://zyncwebsite.webflow.io/) 
 5. [Bear Analytics](https://www.bearanalytics.com/) 
-6. [My Briefcase](https://mybriefcase.ai/) 
+6. [My Briefcase](https://mybriefcase.ai/)
+7.  [thekutija](https://thekutija.com/)
 
  You can view more of my work on my [portfolio website](https://poojapanchal1931.vercel.app/). 
 
