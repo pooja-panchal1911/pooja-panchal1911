@@ -28,16 +28,6 @@ I'm a passionate web designer with [3] years of experience in crafting beautiful
 <a href="https://helpx.adobe.com/in/support/xd.html" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="adobeXd" height="50" /></a>  
 </div>
 
-## Portfolio
-Here are some projects I've worked on:
-
-1. [Robin App] 
-2. [Love Devani]
-3. [Realestate Sparkle Infotech](https://realestate.sparkleinfotech.com/)
-4. [Zync Ai] 
-5. [Bear Analytics
-6. [My Briefcase]
-7.  [thekutija]
 
  You can view more of my work on my [portfolio website](https://poojapanchal1931.vercel.app/). 
 
