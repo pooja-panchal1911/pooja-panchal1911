@@ -31,13 +31,13 @@ I'm a passionate web designer with [3] years of experience in crafting beautiful
 ## Portfolio
 Here are some projects I've worked on:
 
-1. [Robin App](https://robin-app-0c0dc0.webflow.io/) 
-2. [Love Devani](https://lovedevani.com/relationship/)
+1. [Robin App] 
+2. [Love Devani]
 3. [Realestate Sparkle Infotech](https://realestate.sparkleinfotech.com/)
-4. [Zync Ai](https://zyncwebsite.webflow.io/) 
-5. [Bear Analytics](https://www.bearanalytics.com/) 
-6. [My Briefcase](https://mybriefcase.ai/)
-7.  [thekutija](https://thekutija.com/)
+4. [Zync Ai] 
+5. [Bear Analytics
+6. [My Briefcase]
+7.  [thekutija]
 
  You can view more of my work on my [portfolio website](https://poojapanchal1931.vercel.app/). 
 
