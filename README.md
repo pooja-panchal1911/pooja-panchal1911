@@ -29,7 +29,7 @@ I'm a passionate web designer with [3] years of experience in crafting beautiful
 </div>
 
 
- You can view more of my work on my [portfolio website](https://poojapanchal1931.vercel.app/). 
+
 
 ## Get in Touch
 - **Email:** poojapanchal1911@gmail.com
